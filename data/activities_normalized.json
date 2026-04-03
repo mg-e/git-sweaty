@@ -2468,5 +2468,44 @@
     "start_date_local": "2026-03-29T06:52:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 5020.0,
+    "elevation_gain": 32.3,
+    "id": "17956441629",
+    "moving_time": 2515.0,
+    "name": "Holiday Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T08:00:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 576.2,
+    "elevation_gain": 2.6,
+    "id": "17956529317",
+    "moving_time": 323.0,
+    "name": "Try lang",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T08:50:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 1294.9,
+    "elevation_gain": 3.8,
+    "id": "17956694632",
+    "moving_time": 716.0,
+    "name": "Morning walk",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T08:58:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
