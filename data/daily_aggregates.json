@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T15:56:21.485409+00:00",
+  "generated_at": "2026-04-07T16:14:25.940963+00:00",
   "years": {
     "2025": {
       "Elliptical": {
@@ -1345,6 +1345,16 @@
           "distance": 8095.6,
           "elevation_gain": 87.4,
           "moving_time": 3238.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18006976128",
+            "18006986195"
+          ],
+          "count": 2,
+          "distance": 10191.9,
+          "elevation_gain": 72.5,
+          "moving_time": 4382.0
         }
       },
       "Walk": {
