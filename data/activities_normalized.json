@@ -2559,5 +2559,18 @@
     "start_date_local": "2026-04-07T07:56:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 3514.6,
+    "elevation_gain": 0.0,
+    "id": "18050931357",
+    "moving_time": 1571.0,
+    "name": "Quick workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T16:40:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
