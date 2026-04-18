@@ -2598,5 +2598,18 @@
     "start_date_local": "2026-04-14T08:58:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 5365.7,
+    "elevation_gain": 0.0,
+    "id": "18154872080",
+    "moving_time": 2432.0,
+    "name": "Saturday Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T15:08:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
