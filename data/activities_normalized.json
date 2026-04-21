@@ -2611,5 +2611,18 @@
     "start_date_local": "2026-04-18T15:08:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 3322.5,
+    "elevation_gain": 0.0,
+    "id": "18198821704",
+    "moving_time": 1583.0,
+    "name": "Quick night run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T22:39:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
