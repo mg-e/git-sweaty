@@ -2676,5 +2676,18 @@
     "start_date_local": "2026-04-26T09:19:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 4266.5,
+    "elevation_gain": 126.6,
+    "id": "18273400459",
+    "moving_time": 1699.0,
+    "name": "heat training",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T08:53:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
