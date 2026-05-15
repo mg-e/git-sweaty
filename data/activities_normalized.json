@@ -2767,5 +2767,18 @@
     "start_date_local": "2026-05-13T21:05:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 8057.3,
+    "elevation_gain": 0.0,
+    "id": "18514458242",
+    "moving_time": 3726.0,
+    "name": "Friday Afternoon Run (treadmill)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T17:02:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
