@@ -2793,5 +2793,18 @@
     "start_date_local": "2026-05-16T09:25:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 2017.8,
+    "elevation_gain": 0.0,
+    "id": "18568381247",
+    "moving_time": 913.0,
+    "name": "Gym warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T21:45:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
