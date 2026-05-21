@@ -2806,5 +2806,18 @@
     "start_date_local": "2026-05-19T21:45:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 5100.7,
+    "elevation_gain": 0.0,
+    "id": "18589853340",
+    "moving_time": 2342.0,
+    "name": "Thursday Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T09:19:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
