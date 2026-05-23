@@ -2819,5 +2819,18 @@
     "start_date_local": "2026-05-21T09:19:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 3228.4,
+    "elevation_gain": 96.3,
+    "id": "18622802216",
+    "moving_time": 2544.0,
+    "name": "Dessert walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-23T20:49:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
