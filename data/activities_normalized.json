@@ -2884,5 +2884,18 @@
     "start_date_local": "2026-05-27T20:32:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 8006.5,
+    "elevation_gain": 94.3,
+    "id": "18703811446",
+    "moving_time": 3208.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T22:51:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
