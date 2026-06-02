@@ -1581,6 +1581,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 20,
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2639,6 +2646,15 @@
           "distance": 5000.0,
           "elevation_gain": 0.0,
           "moving_time": 2125.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18755639630"
+          ],
+          "count": 1,
+          "distance": 3100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1920.0
         }
       },
       "Run": {
@@ -3191,7 +3207,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T19:57:24.646252+00:00",
+  "generated_at": "2026-06-02T18:48:01.262090+00:00",
   "other_bucket": "OtherSports",
   "repo": "mg-e/git-sweaty",
   "source": "strava",

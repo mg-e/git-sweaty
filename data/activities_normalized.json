@@ -2936,5 +2936,18 @@
     "start_date_local": "2026-05-31T08:16:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 3100.0,
+    "elevation_gain": 0.0,
+    "id": "18755639630",
+    "moving_time": 1920.0,
+    "name": "Evening Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-02T20:44:53Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
