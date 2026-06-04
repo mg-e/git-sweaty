@@ -2949,5 +2949,31 @@
     "start_date_local": "2026-06-02T20:44:53Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 10279.4,
+    "elevation_gain": 99.0,
+    "id": "18772241321",
+    "moving_time": 3805.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T23:33:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 9039.4,
+    "elevation_gain": 14.0,
+    "id": "18772244553",
+    "moving_time": 4070.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T23:34:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
