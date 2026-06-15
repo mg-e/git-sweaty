@@ -3079,5 +3079,18 @@
     "start_date_local": "2026-06-14T22:08:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 4642.9,
+    "elevation_gain": 137.3,
+    "id": "18930250788",
+    "moving_time": 1806.0,
+    "name": "Quickie Night Run + Buhat",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-15T22:34:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
