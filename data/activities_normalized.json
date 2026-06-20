@@ -3118,5 +3118,18 @@
     "start_date_local": "2026-06-19T18:05:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 3039.0,
+    "elevation_gain": 0.0,
+    "id": "18991378073",
+    "moving_time": 1414.0,
+    "name": "shakeshakeshakeout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T11:05:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
