@@ -3131,5 +3131,31 @@
     "start_date_local": "2026-06-20T11:05:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 17258.6,
+    "elevation_gain": 22.7,
+    "id": "19002177084",
+    "moving_time": 7833.0,
+    "name": "Longest run!!!! Lfg",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T03:00:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 15851.4,
+    "elevation_gain": 61.6,
+    "id": "19002676267",
+    "moving_time": 8544.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T03:01:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
