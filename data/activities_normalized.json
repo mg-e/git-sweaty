@@ -3170,5 +3170,18 @@
     "start_date_local": "2026-06-24T08:38:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 4009.7,
+    "elevation_gain": 0.0,
+    "id": "19063799050",
+    "moving_time": 1906.0,
+    "name": "Rainy jim night",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T00:07:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
