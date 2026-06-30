@@ -3209,5 +3209,18 @@
     "start_date_local": "2026-06-28T07:55:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 3233.3,
+    "elevation_gain": 0.0,
+    "id": "19118676627",
+    "moving_time": 1507.0,
+    "name": "Tuesday Lunch Run/Gym",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T11:08:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
