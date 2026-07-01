@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T17:09:27.405273+00:00",
+  "generated_at": "2026-07-01T17:21:04.765769+00:00",
   "years": {
     "2025": {
       "Elliptical": {
@@ -1038,6 +1038,17 @@
       }
     },
     "2026": {
+      "EBikeRide": {
+        "2026-07-01": {
+          "activity_ids": [
+            "19130865807"
+          ],
+          "count": 1,
+          "distance": 13000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
+        }
+      },
       "Elliptical": {
         "2026-03-07": {
           "activity_ids": [

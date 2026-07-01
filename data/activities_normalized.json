@@ -3222,5 +3222,18 @@
     "start_date_local": "2026-06-30T11:08:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 13000.0,
+    "elevation_gain": 0.0,
+    "id": "19130865807",
+    "moving_time": 2700.0,
+    "name": "Morning grp class",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-01T07:01:00Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
