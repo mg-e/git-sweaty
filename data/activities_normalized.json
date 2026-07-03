@@ -3242,10 +3242,23 @@
     "elevation_gain": 21.8,
     "id": "19150595137",
     "moving_time": 2182.0,
-    "name": "Evening Run",
+    "name": "Evening Glitchy Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-07-02T20:56:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 5483.6,
+    "elevation_gain": 89.7,
+    "id": "19161506274",
+    "moving_time": 2324.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-03T18:19:48Z",
     "type": "Run",
     "year": 2026
   }
