@@ -3287,5 +3287,18 @@
     "start_date_local": "2026-07-05T08:28:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 5216.7,
+    "elevation_gain": 0.0,
+    "id": "19200674130",
+    "moving_time": 2414.0,
+    "name": "jim day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-06T20:15:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
