@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:22:33.494128+00:00",
+  "generated_at": "2026-07-17T16:20:32.223426+00:00",
   "years": {
     "2025": {
       "Elliptical": {
@@ -1076,6 +1076,17 @@
           "distance": 3100.0,
           "elevation_gain": 0.0,
           "moving_time": 1920.0
+        }
+      },
+      "HighIntensityIntervalTraining": {
+        "2026-07-17": {
+          "activity_ids": [
+            "19344995550"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       },
       "Run": {

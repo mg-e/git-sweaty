@@ -1798,6 +1798,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 8,
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2878,6 +2885,17 @@
           "moving_time": 1920.0
         }
       },
+      "HighIntensityIntervalTraining": {
+        "2026-07-17": {
+          "activity_ids": [
+            "19344995550"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
+        }
+      },
       "Run": {
         "2026-01-03": {
           "activity_ids": [
@@ -3649,7 +3667,7 @@
       }
     }
   },
-  "generated_at": "2026-07-16T16:22:33.501055+00:00",
+  "generated_at": "2026-07-17T16:20:32.230330+00:00",
   "other_bucket": "OtherSports",
   "repo": "mg-e/git-sweaty",
   "source": "strava",
@@ -3661,6 +3679,10 @@
     "Elliptical": {
       "accent": "#fb5607",
       "label": "Elliptical"
+    },
+    "HighIntensityIntervalTraining": {
+      "accent": "#9b5de5",
+      "label": "HITT"
     },
     "Hike": {
       "accent": "#d6ff6b",
@@ -3682,6 +3704,7 @@
   "types": [
     "EBikeRide",
     "Elliptical",
+    "HighIntensityIntervalTraining",
     "Hike",
     "Ride",
     "Run",
