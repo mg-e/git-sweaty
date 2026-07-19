@@ -1805,6 +1805,13 @@
       "subtype": "HighIntensityIntervalTraining",
       "type": "HighIntensityIntervalTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 8,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3616,6 +3623,15 @@
           "distance": 4506.1,
           "elevation_gain": 19.9,
           "moving_time": 1786.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19369708493"
+          ],
+          "count": 1,
+          "distance": 5292.2,
+          "elevation_gain": 49.6,
+          "moving_time": 2147.0
         }
       },
       "Walk": {
@@ -3667,7 +3683,7 @@
       }
     }
   },
-  "generated_at": "2026-07-18T16:02:07.247697+00:00",
+  "generated_at": "2026-07-19T16:01:57.938020+00:00",
   "other_bucket": "OtherSports",
   "repo": "mg-e/git-sweaty",
   "source": "strava",
