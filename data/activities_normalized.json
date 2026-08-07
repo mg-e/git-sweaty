@@ -3443,5 +3443,31 @@
     "start_date_local": "2026-08-04T13:03:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 3531.4,
+    "elevation_gain": 4.6,
+    "id": "19619575285",
+    "moving_time": 1764.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T06:44:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 4015.1,
+    "elevation_gain": 0.0,
+    "id": "19638242633",
+    "moving_time": 1838.0,
+    "name": "i miss atg \u2614\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-07T17:26:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
