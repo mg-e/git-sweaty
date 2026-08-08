@@ -3469,5 +3469,18 @@
     "start_date_local": "2026-08-07T17:26:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 1017.0,
+    "elevation_gain": 0.0,
+    "id": "19649566149",
+    "moving_time": 494.0,
+    "name": "Rainy days are gym days",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T14:52:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
