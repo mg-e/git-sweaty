@@ -3508,5 +3508,18 @@
     "start_date_local": "2026-08-12T07:00:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 5459.9,
+    "elevation_gain": 60.2,
+    "id": "19725280161",
+    "moving_time": 2055.0,
+    "name": "Evening ATG Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-13T20:44:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
