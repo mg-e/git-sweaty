@@ -3612,5 +3612,18 @@
     "start_date_local": "2026-08-24T10:45:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 480.0,
+    "elevation_gain": 0.0,
+    "id": "19887797444",
+    "moving_time": 2081.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-25T12:41:20Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
