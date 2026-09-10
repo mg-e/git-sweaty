@@ -3781,5 +3781,18 @@
     "start_date_local": "2026-09-09T21:10:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 3016.6,
+    "elevation_gain": 0.0,
+    "id": "20117156155",
+    "moving_time": 1469.0,
+    "name": "Thursday Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T21:40:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
