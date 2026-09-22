@@ -3872,5 +3872,31 @@
     "start_date_local": "2026-09-20T08:47:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 5040.2,
+    "elevation_gain": 11.3,
+    "id": "20274992725",
+    "moving_time": 2467.0,
+    "name": "Siargao \ud83c\udfc3\u200d\u2640\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-22T07:15:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20276656746",
+    "moving_time": 3347.0,
+    "name": "Playtime buhat",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-22T10:21:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
