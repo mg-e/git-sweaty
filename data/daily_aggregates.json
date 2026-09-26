@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:12:16.187906+00:00",
+  "generated_at": "2026-09-26T18:28:23.374109+00:00",
   "years": {
     "2025": {
       "Elliptical": {
@@ -2249,6 +2249,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3347.0
+        },
+        "2026-09-25": {
+          "activity_ids": [
+            "20331209175"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       }
     }
