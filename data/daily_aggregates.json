@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:56:15.731876+00:00",
+  "generated_at": "2026-10-06T20:07:44.354939+00:00",
   "years": {
     "2025": {
       "Elliptical": {
@@ -1091,6 +1091,17 @@
         "2026-07-17": {
           "activity_ids": [
             "19344995550"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
+        }
+      },
+      "Pilates": {
+        "2026-10-06": {
+          "activity_ids": [
+            "20468165786"
           ],
           "count": 1,
           "distance": 0.0,

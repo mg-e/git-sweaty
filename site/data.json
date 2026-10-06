@@ -2134,6 +2134,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 8,
+      "subtype": "Pilates",
+      "type": "Pilates",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3227,6 +3234,17 @@
         "2026-07-17": {
           "activity_ids": [
             "19344995550"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
+        }
+      },
+      "Pilates": {
+        "2026-10-06": {
+          "activity_ids": [
+            "20468165786"
           ],
           "count": 1,
           "distance": 0.0,
@@ -4425,7 +4443,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T21:56:15.740036+00:00",
+  "generated_at": "2026-10-06T20:07:44.360875+00:00",
   "other_bucket": "OtherSports",
   "repo": "mg-e/git-sweaty",
   "source": "strava",
@@ -4445,6 +4463,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "Pilates": {
+      "accent": "#fee440",
+      "label": "Pilates"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -4472,6 +4494,7 @@
     "Elliptical",
     "HighIntensityIntervalTraining",
     "Hike",
+    "Pilates",
     "Ride",
     "Run",
     "Swim",

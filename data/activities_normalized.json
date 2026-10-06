@@ -3963,5 +3963,18 @@
     "start_date_local": "2026-10-04T08:22:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20468165786",
+    "moving_time": 2700.0,
+    "name": "Morning Pilates",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-10-06T08:01:42Z",
+    "type": "Pilates",
+    "year": 2026
   }
 ]
