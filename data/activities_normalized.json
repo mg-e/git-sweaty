@@ -3976,5 +3976,18 @@
     "start_date_local": "2026-10-06T08:01:42Z",
     "type": "Pilates",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20482219209",
+    "moving_time": 3077.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-07T07:14:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
