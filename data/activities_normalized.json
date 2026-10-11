@@ -4041,5 +4041,18 @@
     "start_date_local": "2026-10-10T23:06:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20540086753",
+    "moving_time": 3588.0,
+    "name": "Afternoon Pilates",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pilates",
+    "start_date_local": "2026-10-11T17:02:47Z",
+    "type": "Pilates",
+    "year": 2026
   }
 ]
