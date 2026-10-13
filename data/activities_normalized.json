@@ -4054,5 +4054,18 @@
     "start_date_local": "2026-10-11T17:02:47Z",
     "type": "Pilates",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 4002.9,
+    "elevation_gain": 0.0,
+    "id": "20563893460",
+    "moving_time": 1975.0,
+    "name": "4km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-13T14:43:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
