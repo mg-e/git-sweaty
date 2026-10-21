@@ -4119,5 +4119,18 @@
     "start_date_local": "2026-10-20T07:52:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20675200937",
+    "moving_time": 3449.0,
+    "name": "Evening HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-10-21T19:58:38Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
