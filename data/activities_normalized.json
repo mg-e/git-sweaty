@@ -4132,5 +4132,18 @@
     "start_date_local": "2026-10-21T19:58:38Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20700627782",
+    "moving_time": 3389.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-23T19:55:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
