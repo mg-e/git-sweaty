@@ -4145,5 +4145,18 @@
     "start_date_local": "2026-10-23T19:55:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20706317860",
+    "moving_time": 5037.0,
+    "name": "Morning Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-10-24T06:41:09Z",
+    "type": "Tennis",
+    "year": 2026
   }
 ]
