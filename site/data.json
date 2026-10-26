@@ -2239,6 +2239,13 @@
       "subtype": "Tennis",
       "type": "Tennis",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 11,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4461,6 +4468,15 @@
           "distance": 8302.1,
           "elevation_gain": 59.699999999999996,
           "moving_time": 3156.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20733112741"
+          ],
+          "count": 1,
+          "distance": 5501.7,
+          "elevation_gain": 0.0,
+          "moving_time": 2670.0
         }
       },
       "Swim": {
@@ -4653,7 +4669,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T18:18:41.485427+00:00",
+  "generated_at": "2026-10-26T20:23:29.817291+00:00",
   "other_bucket": "OtherSports",
   "repo": "mg-e/git-sweaty",
   "source": "strava",
