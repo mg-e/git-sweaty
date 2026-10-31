@@ -4223,5 +4223,18 @@
     "start_date_local": "2026-10-29T18:37:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20798561688",
+    "moving_time": 3251.0,
+    "name": "Chop suey Gym Day",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-31T10:03:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
