@@ -4249,5 +4249,18 @@
     "start_date_local": "2026-11-03T10:56:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 4004.5,
+    "elevation_gain": 48.1,
+    "id": "20876442100",
+    "moving_time": 1844.0,
+    "name": "shinjuku neighbourhood walk/run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-06T07:54:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
