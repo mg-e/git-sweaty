@@ -4262,5 +4262,18 @@
     "start_date_local": "2026-11-06T07:54:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20959311487",
+    "moving_time": 1562.0,
+    "name": "Shinjuku Gym\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-11-10T09:18:15Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
