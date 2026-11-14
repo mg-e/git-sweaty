@@ -4275,5 +4275,44 @@
     "start_date_local": "2026-11-10T09:18:15Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 4817.0,
+    "elevation_gain": 102.7,
+    "id": "20978880394",
+    "moving_time": 1672.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T10:17:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 4016.6,
+    "elevation_gain": 9.6,
+    "id": "20978890842",
+    "moving_time": 1699.0,
+    "name": "break in \ud83e\udd73",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T10:18:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 15000.0,
+    "elevation_gain": 0.0,
+    "id": "20980625934",
+    "moving_time": 2700.0,
+    "name": "Lunch RPM",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-14T16:18:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

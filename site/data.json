@@ -2302,6 +2302,27 @@
       "subtype": "Elliptical",
       "type": "Elliptical",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 10,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 10,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3521,6 +3542,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3110.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20980625934"
+          ],
+          "count": 1,
+          "distance": 15000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       },
       "Run": {
@@ -4587,6 +4617,16 @@
           "distance": 4004.5,
           "elevation_gain": 48.1,
           "moving_time": 1844.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20978880394",
+            "20978890842"
+          ],
+          "count": 2,
+          "distance": 8833.6,
+          "elevation_gain": 112.3,
+          "moving_time": 3371.0
         }
       },
       "Swim": {
@@ -4797,7 +4837,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:20:43.476827+00:00",
+  "generated_at": "2026-11-14T19:50:58.170490+00:00",
   "other_bucket": "OtherSports",
   "repo": "mg-e/git-sweaty",
   "source": "strava",
