@@ -4353,5 +4353,18 @@
     "start_date_local": "2026-11-18T20:11:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 9341.0,
+    "elevation_gain": 6.0,
+    "id": "21083460799",
+    "moving_time": 4853.0,
+    "name": "ADT 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-21T22:09:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
